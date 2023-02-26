@@ -17,4 +17,4 @@ jobs:
         server: ${{ secrets.SFTP_HOSTNAME }}
         username: ${{ secrets.SFTP_USERNAME }}
         password: ${{ secrets.SFTP_PASSWORD }}
-        server-dir: /home/dwisetyo/ftp/files/
+        server-dir: /ftp/files/
